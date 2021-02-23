@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TestCase>
+	<Step id="1">
+		<Optional></Optional>
+		<Action>openApp</Action>
+		<Object>App Opening</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="2">
+		<Optional></Optional>
+		<Action>Tap_ContinueButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="3">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Allow_Only_UsingThisTab</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="4">
+		<Optional></Optional>
+		<Action>tap_Agree_CheckBox</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="5">
+		<Optional></Optional>
+		<Action>Tap_ContinueButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="6">
+		<Optional></Optional>
+		<Action>TypeUserID</Action>
+		<Object>user_id</Object>
+		<ObjectValue>Jfrank</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="7">
+		<Optional></Optional>
+		<Action>sendKeys</Action>
+		<Object>password</Object>
+		<ObjectValue>seed135</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="8">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>submit_btn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="9">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>No,_skip_it</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="10">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>More_Btn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="11">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Settings_Btn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="12">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Push_Notifications</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="13">
+		<Optional></Optional>
+		<Action>tap_PushNotification</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="14">
+		<Optional></Optional>
+		<Action>back_android</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="15">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Change_user_ID_Password</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="16">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Change_ID</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="17">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="18">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Change_password</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="19">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="20">
+		<Optional></Optional>
+		<Action>back_android</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="21">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>About_the_AAA_App</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="25">
+		<Optional></Optional>
+		<Action>back_android</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="26">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>ReportaProblem</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="27">
+		<Optional></Optional>
+		<Action>back_android</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="30">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>logout_Setting</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="31">
+		<Optional></Optional>
+		<Action>closeApp</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+</TestCase>

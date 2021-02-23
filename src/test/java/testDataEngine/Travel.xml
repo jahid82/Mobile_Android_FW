@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TestCase>
+	<Step id="1">
+		<Optional></Optional>
+		<Action>openApp</Action>
+		<Object>App Opening</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="2">
+		<Optional></Optional>
+		<Action>clickAndWait</Action>
+		<Object>Continue_Button</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="3">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Allow_allTheTime</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="4">
+		<Optional></Optional>
+		<Action>tap_Agree_CheckBox</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="5">
+		<Optional></Optional>
+		<Action>clickAndWait</Action>
+		<Object>Continue_Button</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="6">
+		<Optional></Optional>
+		<Action>TypeUserID</Action>
+		<Object>user_id</Object>
+		<ObjectValue>Jfrank</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="7">
+		<Optional></Optional>
+		<Action>sendKeys</Action>
+		<Object>password</Object>
+		<ObjectValue>seed135</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="8">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>submit_btn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="9">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>No,_skip_it</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="10">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>User_MoreBtn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="11">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Travel_Btn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+    <Step id="12">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Hotel</Object>
+		<ObjectValue>Book a hotel</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="13">
+		<Optional></Optional>
+		<Action>verifylogo</Action>
+		<Object>AAA logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="14">
+		<Optional></Optional>
+		<Action>sendKeys</Action>
+		<Object>EnterCity</Object>
+		<ObjectValue>London, ON</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="15">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Search_Button</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="16">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="17">
+		<Optional></Optional>
+		<Action>back_android</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="18">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="19">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="20">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="21">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>CarRentals</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="22">
+		<Optional></Optional>
+		<Action>verifylogo</Action>
+		<Object>AAA logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="23">
+		<Optional></Optional>
+		<Action>sendKeys</Action>
+		<Object>pickUpLocation</Object>
+		<ObjectValue>Center Line,MI</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="24">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>CarRental_time</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="25">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="26">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+		<Step id="27">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>CarRental_time_PM</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="28">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>search_Cars</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="29">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="30">
+		<Optional></Optional>
+		<Action>back_android</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="31">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="32">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Flights</Object>
+		<ObjectValue>Book a flight</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="33">
+		<Optional></Optional>
+		<Action>verifylogo</Action>
+		<Object>AAA logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="34">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="35">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Cruises</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="36">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="37">
+		<Optional></Optional>
+		<Action>back_android</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="38">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Activities</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="39">
+		<Optional></Optional>
+		<Action>verifylogo</Action>
+		<Object>AAA logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="40">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="41">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="42">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>TripInsurance</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="43">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="44">
+		<Optional></Optional>
+		<Action>back_android</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="45">
+		<Optional></Optional>
+		<Action>tap_a_TravelTile</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="46">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Book_Now</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="47">
+		<Optional></Optional>
+		<Action>back_android</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="48">
+		<Optional></Optional>
+		<Action>back_android</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> -->
+	<Step id="49">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="50">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Map_Your_Route</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="51">
+		<Optional></Optional>
+		<Action>verifylogo</Action>
+		<Object>AAA logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="52">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="50">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Travel_Findacampground</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="51">
+		<Optional></Optional>
+		<Action>verifylogo</Action>
+		<Object>AAA logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="50">
+		<Optional></Optional>
+		<Action>sendKeys</Action>
+		<Object>campgroundLocationAs</Object>
+		<ObjectValue>48091</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="52">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="53">
+		<Optional></Optional>
+		<Action>scrollToText</Action>
+		<Object></Object>
+		<ObjectValue>What AAA Travelers Are Saying</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="54">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>BrowseCruise</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="55">
+		<Optional></Optional>
+		<Action>verifylogo</Action>
+		<Object>AAA logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>	
+	<Step id="56">
+		<Optional></Optional>
+		<Action>SwapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="57">
+		<Optional></Optional>
+		<Action>closeApp</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+</TestCase>
+	  

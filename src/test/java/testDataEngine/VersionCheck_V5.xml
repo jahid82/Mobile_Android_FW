@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TestCase>
+	<Step id="1">
+		<Optional></Optional>
+		<Action>openApp</Action>
+		<Object>App Opening</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="2">
+		<Optional></Optional>
+		<Action>Tap_ContinueButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="3">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Allow_Only_UsingThisTab</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="4">
+		<Optional></Optional>
+		<Action>tap_Agree_CheckBox</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="5">
+		<Optional></Optional>
+		<Action>Tap_ContinueButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="6">
+		<Optional></Optional>
+		<Action>TypeUserID</Action>
+		<Object>user_id</Object>
+		<ObjectValue>jFrank</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="7">
+		<Optional></Optional>
+		<Action>sendKeys</Action>
+		<Object>password</Object>
+		<ObjectValue>seed135</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="8">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>submit_btn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="9">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>No,_skip_it</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="10">
+		<Optional></Optional>
+		<Action>scrollToText</Action>
+		<Object></Object>
+		<ObjectValue>AAA Dollars</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="11">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="12">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>guest_Near_me_Text</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+ 	<Step id="19">
+		<Optional></Optional>
+		<Action>Drag_2car_nearMePage</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="13">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>NearMe_DropDown_Menu</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="14">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Filter_X_Button</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="15">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>More_Btn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="16">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Discounts_Btn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="17">
+		<Optional></Optional>
+		<Action>click_Afterwait</Action>
+		<Object>Search_icon</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="43">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>search_savingsprofile_V5</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="19">
+		<Optional></Optional>
+		<Action>tap_fivetimes</Action>
+		<Object>search_favorite_partners</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="20">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>search_favorite_partners</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="19">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>search_favorite_partners</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="22">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="23">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="24">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>More_Btn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="25">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Settings_Btn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="26">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>About_the_AAA_App</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="28">
+		<Optional></Optional>
+		<Action>back_android</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="28">
+		<Optional></Optional>
+		<Action>back_android</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<!--AAADrive -->
+	<Step id="29">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>User_MoreBtn_Logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="30">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>AAADrive_Logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="31">
+		<Optional></Optional>
+		<Action>Tap_AAADrive_Allow</Action>
+		<Object>AAADrive_Allow</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="32">
+		<Optional></Optional>
+		<Action>Tap_AAADrive_Allow</Action>
+		<Object>AAADrive_Allow</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="33">
+		<Optional></Optional>
+		<Action>tap_AAADrive_Hamburger</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="34">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>AAA_More</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="35">
+		<Optional></Optional>
+		<Action>Tap_About_AAADrive</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="36">
+		<Optional></Optional>
+		<Action>closeApp</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+</TestCase>
+

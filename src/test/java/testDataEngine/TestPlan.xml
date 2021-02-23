@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TestPlan>
+		
+	<Component filename="AAADrive_V5.xml" execute="No" />
+	<Component filename="VersionCheck_V5.xml" execute="No"/>
+	<Component filename="DashBoard_V5.xml" execute="No" />
+	<Component filename="Discounts_V5.xml" execute="No"/>
+	<Component filename="Membership_V5.xml" execute="No"/>
+	<Component filename="Insurance_V5.xml" execute="No"/>
+	<Component filename="Insurance_QA2_V5.xml" execute="No"/>
+	<Component filename="Travel_V5.xml" execute="No"/>
+	<Component filename="Banking_V5.xml" execute="No"/>
+	<Component filename="Messages_V5.xml" execute="No"/>
+	<Component filename="MyCards_V5.xml" execute="No"/>
+	<Component filename="NearMe_V5.xml" execute="No"/>
+	<Component filename="Settings_V5.xml" execute="No"/>
+	<Component filename="Guest_Regression_V5.xml" execute="No"/>
+	<Component filename="X-Smoke_Test_V5.xml" execute="No"/>
+	<Component filename="Insurance_Quote_TN.xml" execute="No" />
+	<Component filename="Insurance_Quote_MI.xml" execute="Yes" />
+		    
+		
+</TestPlan>

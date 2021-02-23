@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TestCase>
+	<!--Login -->
+	<Step id="1">
+		<Optional></Optional>
+		<Action>openApp</Action>
+		<Object>App Opening</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="2">
+		<Optional></Optional>
+		<Action>Tap_ContinueButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="3">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Allow_Only_UsingThisTab</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="4">
+		<Optional></Optional>
+		<Action>tap_Agree_CheckBox</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="5">
+		<Optional></Optional>
+		<Action>Tap_ContinueButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="6">
+		<Optional></Optional>
+		<Action>TypeUserID</Action>
+		<Object>user_id</Object>
+		<ObjectValue>Jfrank</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<!-- DashBoard -->
+	<Step id="7">
+		<Optional></Optional>
+		<Action>scrollAndClick</Action>
+		<Object>Get help Signing in ›</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="8">
+		<Optional></Optional>
+		<Action>verifylogo</Action>
+		<Object>AAA logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="9">
+		<Optional></Optional>
+		<Action>back_android</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<!-- <Step id="10">
+		<Optional></Optional>
+		<Action>scrollAndClick</Action>
+		<Object>Haven’t signed in yet?</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="11">
+		<Optional></Optional>
+		<Action>back_android</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> -->
+	<Step id="12">
+		<Optional></Optional>
+		<Action>scrollAndClick</Action>
+		<Object>Not a member yet?</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="13">
+		<Optional></Optional>
+		<Action>back_android</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="14">
+		<Optional></Optional>
+		<Action>scrollToText</Action>
+		<Object></Object>
+		<ObjectValue>Enjoy Peace of Mind Every Day</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="15">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="16">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>DashBoard_Why_Join</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="17">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="18">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	-->
+
+	<!-- Roadside Assistant, Near Me -->
+	<Step id="19">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_Roadside_Text</Object>
+		<ObjectValue>Roadside</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="20">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="21">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>guest_Near_me_Text</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="22">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>NearMe_DropDown_Menu</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="23">
+		<Optional></Optional>
+		<Action>tap_Hotel</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="24">
+		<Optional></Optional>
+		<Action>tap_CheapestGas</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="25">
+		<Optional></Optional>
+		<Action>tap_CrossIcon</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	-->
+
+	<!--More -->
+
+	<Step id="26">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_MoreBtn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="27">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_MembershipPlans</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="28">
+		<Optional></Optional>
+		<Action>scrollAndClick</Action>
+		<Object>Choose Classic</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="29">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="30">
+		<Optional></Optional>
+		<Action>scrollAndClick</Action>
+		<Object>Choose Plus</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="31">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="32">
+		<Optional></Optional>
+		<Action>scrollAndClick</Action>
+		<Object>Choose Premier</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="33">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="34">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<!--Why Join AAA -->
+
+	<Step id="35">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_WhyJoinAAA</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="36">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_Roadside_Assistance</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="37">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="38">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_AAA_Savings</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="39">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="40">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_AAA_approved_auto_repair</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="41">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="42">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_AAA_mobile_battery_service</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="43">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="44">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_AAA_auto_buying_service</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="45">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="46">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_ID_theft_monitoring</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="47">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="48">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_Severe_weather_alerts</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="49">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="50">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="51">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_AAADrive</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="52">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<!-- Guest Insurance -->
+	<Step id="53">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_MoreBtn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="54">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>guest_insurance</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	
+	<Step id="58">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="60">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="61">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+
+
+
+	<!--TRAVEL -->
+
+	<Step id="62">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_MoreBtn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="63">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_Travel_txt</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="64">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Hotel</Object>
+		<ObjectValue>Book a hotel</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="65">
+		<Optional></Optional>
+		<Action>verifylogo</Action>
+		<Object>AAA logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="66">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="67">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>CarRentals</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="68">
+		<Optional></Optional>
+		<Action>verifylogo</Action>
+		<Object>AAA logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="69">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="70">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Flights</Object>
+		<ObjectValue>Book a flight</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="71">
+		<Optional></Optional>
+		<Action>verifylogo</Action>
+		<Object>AAA logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="72">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="73">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Activities</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="74">
+		<Optional></Optional>
+		<Action>verifylogo</Action>
+		<Object>AAA logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="75">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="76">
+		<Optional></Optional>
+		<Action>scrollToText</Action>
+		<Object></Object>
+		<ObjectValue>What AAA Travelers Are Saying</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="77">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+
+	<!--BANKING -->
+
+
+	<Step id="78">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_MoreBtn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="79">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_Bank_txt</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="80">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Banking_Manage_my_AAA_credit_card</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="81">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="82">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Banking_Access_account</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="85">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="26">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Banking_Mortgage_account</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="35">
+		<Optional></Optional>
+		<Action>verifylogo</Action>
+		<Object>AAA logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="26">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="86">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Banking_Apply_for_a_credit_card</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="87">
+		<Optional></Optional>
+		<Action>verifylogo</Action>
+		<Object>AAA logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="88">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="89">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="90">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Banking_Apply_for_an_auto_loan</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="91">
+		<Optional></Optional>
+		<Action>verifylogo</Action>
+		<Object>AAA logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+		<Step id="35">
+		<Optional></Optional>
+		<Action>swapDown</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="92">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="93">
+		<Optional></Optional>
+		<Action>scrollToText</Action>
+		<Object></Object>
+		<ObjectValue>Banking through AAA</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="940">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Banking_Open_an_account</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="95">
+		<Optional></Optional>
+		<Action>verifylogo</Action>
+		<Object>AAA logo</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="96">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="97">
+		<Optional></Optional>
+		<Action>tap_BackButton</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+
+
+	<!--CHANGEZIP -->
+	<Step id="98">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Guest_MoreBtn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="99">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>ChangeZipCode_Btn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="100">
+		<Optional></Optional>
+		<Action>closeApp</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+</TestCase>
+

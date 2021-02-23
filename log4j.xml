@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/" debug="false">
+ 
+
+
+<appender name="fileAppender" class="org.apache.log4j.FileAppender">
+<param name="Threshold" value="INFO" />
+<param name="append" value="true" />
+<param name="File" value="AutomationResults/TestLogs_${currentDate}/logfile.log"/>
+<layout class="org.apache.log4j.PatternLayout">
+<param name="ConversionPattern" value="%d %-5p [%c{1}] %m %n" />
+</layout>
+</appender>
+ 
+ <appender name="consoleAppender" class="org.apache.log4j.ConsoleAppender">
+<param name="Threshold" value="INFO" />
+<layout class="org.apache.log4j.PatternLayout">
+<param name="ConversionPattern" value="%d %-5p [%c{1}] %m %n" />
+</layout>
+</appender>
+
+<Console name="SlowConsole" target="SYSTEM_OUT">
+     <PatternLayout disableAnsi="false"  pattern="%highlight{%d{HH:mm:ss.SSS} %-5level %logger{36}.%M() @%L - %msg%n}{FATAL=red blink, ERROR=red, WARN=yellow bold, INFO=black, DEBUG=green bold, TRACE=blue}"/>
+</Console>
+
+ 
+<root>
+ 
+<level value="INFO"/>
+ 
+<appender-ref ref="fileAppender"/>
+<appender-ref ref="consoleAppender"/>
+ 
+</root>
+ 
+</log4j:configuration>
